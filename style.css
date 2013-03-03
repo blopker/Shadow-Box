@@ -1,0 +1,13 @@
+html{
+  background-color: #eee;
+  height: 100%;
+}
+
+.box{
+  position: relative;
+  top: -webkit-calc(50% - 200px);
+  margin: auto auto;
+  width: 400px;
+  height: 400px;
+  background-color: #ccc;
+}
